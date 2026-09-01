@@ -103,7 +103,7 @@ __pycache__/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Xta1neR/health-bot-ai.git
 cd health-bot
 ```
 
