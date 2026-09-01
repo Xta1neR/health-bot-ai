@@ -1,0 +1,15 @@
+# Web UI & Interface
+gradio
+
+# LangChain Ecosystem
+langchain
+langchain_community
+langchain_groq
+langchain-mistralai
+langchain-tavily
+langgraph
+
+# Environment & Utilities
+python-dotenv
+ipywidgets
+jupyter
